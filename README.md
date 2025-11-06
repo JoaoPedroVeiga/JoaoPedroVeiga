@@ -1,4 +1,4 @@
-# ⛵ João Pedro Veigo
+# ⛵ João Pedro Veiga
 
 **`Desenvolvedor FullStack`**
 
