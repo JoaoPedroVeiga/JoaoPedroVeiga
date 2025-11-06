@@ -8,7 +8,7 @@ Meu objetivo é desenvolver aplicações performáticas, escaláveis e bem estru
 
 [![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/JoaoPedroVeiga?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas)](https://github.com/JoaoPedroVeiga?tab=repositories&sort=stargazers)
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/JoaoPedroVeiga?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/JoaoPedroVeiga?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroveiga/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-braga-veiga-40b3a0265/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbragaveiga@gmail.com)
 
 ---
